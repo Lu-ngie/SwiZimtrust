@@ -170,7 +170,7 @@
 					  {
 					    number: num,
 					    numberStep: comma_separator_number_step
-					  }, 7000
+					  }, 70
 					);
 				});
 				
@@ -209,11 +209,11 @@
 						},  k * 20, 'easeInOutExpo' );
 					});
 					
-				}, 100);
+				}, 0);
 				
 			}
 
-		} , { offset: '95%' } );
+		} , { offset: '90%' } );
 	};
 	contentWayPoint();
 
